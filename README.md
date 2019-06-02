@@ -1,1 +1,1 @@
-# algorithm-demo
+# Algorithm Demo

@@ -1,5 +1,3 @@
-// hoisting
-
 var a = 2;
 
 foo();
